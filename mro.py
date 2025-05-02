@@ -1,4 +1,4 @@
-#MRO es el orden en el que python busca los metodos y atributos de una clase, tengo que saber que se ejecutará primero y que tiene prioridad y que no
+#MRO (Método de Resolución de Orden) es el orden en el que python busca los metodos y atributos de una clase, tengo que saber que se ejecutará primero y que tiene prioridad y que no
 
 class A:
     def hablar(self):
